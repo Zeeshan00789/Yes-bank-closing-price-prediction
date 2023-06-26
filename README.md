@@ -27,3 +27,4 @@ Further, we tried other models such as random forest and Xgboost. With the help 
 
 Here is the presentation link:
 
+https://github.com/Zeeshan00789/Yes-bank-closing-price-prediction/blob/main/Presentation%20YES%20Bank%20Stock.pdf
